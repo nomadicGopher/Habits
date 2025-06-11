@@ -6,8 +6,8 @@
 
 <!--[**Kanban Board**]()--> <!-- TODO: Copy GitHub project (LiberaDebt) & replace. -->
 
-### Dev Notes
-* Dev server if needed (using Python) `python -m http.server 8080`
+### To Do <!--[X]-->
+* [ ] [Install Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
 
 ---
 
