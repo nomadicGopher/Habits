@@ -8,6 +8,8 @@
 
 ### To Do <!--[X]-->
 * [ ] [Install Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
+* SQLite for local DB
+  * Save & upload (overwrite) features
 
 ---
 
