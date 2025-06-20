@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> habits is in a pre-alpha state, and only suitable for use by developers.
+> Habits is in a pre-alpha state, and only suitable for use by developers.
 > 
 > **Progress to MVP**  
 > ░░░░░░░░░░ (0%) <!--█-->
