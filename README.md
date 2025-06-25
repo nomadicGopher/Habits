@@ -8,7 +8,7 @@
 
 ### Tech Stack
 * Typescript / JavaScript
-  * [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file) (_if needed_)
+  * [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
 * HTML
 * CSS
 * [IndexedDB](https://github.com/w3c/IndexedDB) to store the binary blob of a [SQLite](https://github.com/sqlite/sqlite) database file
