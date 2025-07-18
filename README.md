@@ -7,11 +7,13 @@
 <!--[**Kanban Board**]()--> <!-- TODO: Copy GitHub project (LiberaDebt) & replace. -->
 
 ### Tech Stack
-* Typescript / JavaScript
-  * [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
 * HTML
 * CSS
-* [IndexedDB](https://github.com/w3c/IndexedDB) to store the binary blob of a [SQLite](https://github.com/sqlite/sqlite) database file
+* JavaScript
+  * Typescript via [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
+* Github Pages (hosting)
+* JSON (cached data persistence)
+<!--* [IndexedDB](https://github.com/w3c/IndexedDB) to store the binary blob of a [SQLite](https://github.com/sqlite/sqlite) database file
   * [sql.js](https://github.com/sql-js/sql.js) support loading and saving the database (to & from)
   * **Pros**
     * Survives browser restarts
@@ -19,14 +21,16 @@
     * No need for server-side storage
   * **Cons**
     * If the user clears site data, it will be deleted
-    * Not accessible outside the browser (e.g., by native apps)
+    * Not accessible outside the browser (e.g., by native apps)-->
 
-### To Do
-* [ ] Store a SQLite DB in IndexedDB
-* [ ] Load it back on page reload
-* [ ] Offer a download backup
-* [ ] Offer to restore from backup
-  * File input `<input type="file">` to let users upload a .sqlite file
+## Requirements
+* [ ] Option to backup data (save json to device, where th user can typically choose locally or google drive if connected on their device)
+<!--* IndexedDB
+  * [ ] Store a SQLite DB in IndexedDB
+  * [ ] Load it back on page reload
+  * [ ] Offer a download backup
+  * [ ] Offer to restore from backup
+    * File input `<input type="file">` to let users upload a .sqlite file-->
 
 ---
 
