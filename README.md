@@ -23,7 +23,7 @@
     * If the user clears site data, it will be deleted
     * Not accessible outside the browser (e.g., by native apps)-->
 
-## Requirements
+### Requirements
 * [ ] Option to backup data (save json to device, where th user can typically choose locally or google drive if connected on their device)
 <!--* IndexedDB
   * [ ] Store a SQLite DB in IndexedDB
