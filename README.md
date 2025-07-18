@@ -14,9 +14,9 @@
 * [IndexedDB](https://github.com/w3c/IndexedDB) to store the binary blob of a [SQLite](https://github.com/sqlite/sqlite) database file
   * [sql.js](https://github.com/sql-js/sql.js) support loading and saving the database (to & from)
   * **Pros**
-    * _Survives browser restarts_
-    * _Works offline_
-    * _No need for server-side storage_
+    * Survives browser restarts
+    * Works offline
+    * No need for server-side storage
   * **Cons**
     * If the user clears site data, it will be deleted
     * Not accessible outside the browser (e.g., by native apps)
