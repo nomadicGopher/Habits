@@ -10,7 +10,7 @@
 * HTML
 * CSS
 * JavaScript
-  * Typescript via [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)
+  <!--* Typescript via [Deno 2](https://github.com/denoland/deno?tab=readme-ov-file)-->
 * Github Pages (hosting)
 * JSON (cached data persistence)
 
