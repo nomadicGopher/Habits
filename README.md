@@ -29,7 +29,7 @@
 <details>
   <summary><b>Support This Developer</b></summary>
   <br>
-  Single or or monthly contributions
+  Single or monthly contributions
   <ul>
    <li><a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a></li>
    <li><a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a></li>
