@@ -15,8 +15,14 @@
 * JSON (cached data persistence)
 
 ### Requirements
+* [ ] Allow the user to set one or more good habits to accomplish or bad habits to avoid
+* [ ] Allow the user to track a good habit
+* [ ] Allow the user to set the time of day to automatically acquire an accomplishment for avoiding a bad habit
 * [ ] Option to backup data (save json to device, where th user can typically choose locally or google drive if connected on their device)
 * [ ] Display a graph per habit based on its axis (daily true/false/null, weekly count(array), monthly count(array)), using [Chart.js](https://github.com/chartjs/Chart.js) [(GitHub)](https://github.com/chartjs/Chart.js)
+
+### Notes
+* Research shows that while tracking negative data points like consumption of a bad habit can be motivating initially, it has not been proven to be sustainable or healthy long term. Honestly the self guilt is likely what inspires the user to search for an app. Therefor the methodology for this app should be aimed towards tracking successes.
 
 ---
 
